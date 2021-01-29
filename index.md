@@ -1,7 +1,7 @@
 ---
 layout: page
 lab:
-    title: 'Lab: Example'
+    title: 'Hand On Learning: Example'
     module: 'Module 0: Placeholder'
 ---
 
