@@ -1,5 +1,5 @@
 ---
-demo: is a test
+demo:
     title: 'this is a second test'
     module: 'this is a third test'
 ---
