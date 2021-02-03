@@ -1,7 +1,7 @@
 ---
-this: is a test
-    One: this is a second test
-    Two: this is a third test
+demo: is a test
+    title: 'this is a second test'
+    module: 'this is a third test'
 ---
 
 # HoLe
