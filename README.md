@@ -6,9 +6,6 @@ demo: is a test
 
 # HoLe
 
-Microsoft Learning Courseware Theme
-
-
 ## the details follow here
 
 ### a second set of details may be here
